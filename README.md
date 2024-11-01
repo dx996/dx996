@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dx996
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning TypeScript/Python/Rust
